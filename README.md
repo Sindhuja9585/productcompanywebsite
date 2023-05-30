@@ -439,24 +439,24 @@ contact
 
 ### Home Page:
 
-![output](./images/out10.png)
+![output](./out10.png)
 
 ### people:
-![output](./images/out1.png)
-![output](./images/out2.png)
-![output](./images/out3.jpg)
-![output](./images/out4.jpg)
-![output](./images/out5.jpg)
+![output](./out1.png)
+![output](./out2.png)
+![output](./out3.jpg)
+![output](./out4.jpg)
+![output](./out5.jpg)
 
 ### products:
-![output](./images/out6.png)
-![output](./images/out7.png)
+![output](./out6.png)
+![output](./out7.png)
 
 ### contact:
-![output](./images/out8.png)
+![output](./out8.png)
 
 ### HTML Validator:
-![output](./images/out10.png)
+![output](./out10.png)
 
 ## Result:
 
