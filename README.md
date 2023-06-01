@@ -445,9 +445,9 @@ contact
 
 ![output](./out1.png)
 ![output](./out2.png)
-![output](./out3.jpg)
-![output](./out4.jpg)
-![output](./out5.jpg)
+![output](./out3.png)
+![output](./out4.png)
+![output](./out5.png)
 
 ### products:
 
