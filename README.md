@@ -441,16 +441,13 @@ contact
 
 ![output](./out9.png)
 
-### people:
-![output](./out1.png)
+### people:![output](./out1.png)
 ![output](./out2.png)
 ![output](./out3.png)
 ![output](./out4.png)
 ![output](./out5.png)
 
-### products:
-
-![output](./out6.png)
+### products:![output](./out6.png)
 ![output](./out7.png)
 
 ### contact:
