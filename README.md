@@ -439,7 +439,7 @@ contact
 
 ### Home Page:
 
-![output](./out10.png)
+![output](./out9.png)
 
 ### people:
 ![output](./out1.png)
@@ -456,7 +456,7 @@ contact
 ![output](./out8.png)
 
 ### HTML Validator:
-![output](./out10.png)
+![output](./valid.png)
 
 ## Result:
 
