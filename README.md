@@ -296,17 +296,17 @@ people
                         <b><u>Head executives</u></b></p><br>
                     </div>
                     <div class="manph1"></div>
-                    <div class="man1"><p align="center"><b><h2>Nandhini</h2></b></p></div>
+                    <div class="man1"><p align="center"><b><h2>varshini</h2></b></p></div>
                     <div class="manph2"></div>
-                    <div class="man2"><p><b><h2>varshini</h2></b></p></div>
+                    <div class="man2"><p><b><h2>jeevapriya</h2></b></p></div>
                     <br>
                     <div class="text"><p><b><u>Managers</u></b></p></div><br>
                     <div class="amph1"></div>
-                    <div class="am1"><p align="center"><b><h2>Tamil</h2></b></p></div>
+                    <div class="am1"><p align="center"><b><h2>dhivya</h2></b></p></div>
                     <div class="amph2"></div>
-                    <div class="am2"><p align="center"><b><h2>Varsha</h2></b></p></div>
+                    <div class="am2"><p align="center"><b><h2>vidhya</h2></b></p></div>
                     <div class="amph3"></div>
-                    <div class="am3"><p align="center"><b><h2>Jeevapriya</h2></b></p></div><br>
+                    <div class="am3"><p align="center"><b><h2>aparna</h2></b></p></div><br>
                     <div class="text">Thank you so much for your kind support!<br>Hope our products had made you more B-E-A-UTIFUL!</div>
                 </div>
                 <div class="footer">
