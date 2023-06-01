@@ -442,6 +442,7 @@ contact
 ![output](./out9.png)
 
 ### people:
+
 ![output](./out1.png)
 ![output](./out2.png)
 ![output](./out3.jpg)
@@ -449,13 +450,16 @@ contact
 ![output](./out5.jpg)
 
 ### products:
+
 ![output](./out6.png)
 ![output](./out7.png)
 
 ### contact:
+
 ![output](./out8.png)
 
 ### HTML Validator:
+
 ![output](./valid.png)
 
 ## Result:
