@@ -302,7 +302,7 @@ people
                     <br>
                     <div class="text"><p><b><u>Managers</u></b></p></div><br>
                     <div class="amph1"></div>
-                    <div class="am1"><p align="center"><b><h2>dhivya</h2></b></p></div>
+                    <div class="am1"><p align="center"><b><h2>dhivya priya</h2></b></p></div>
                     <div class="amph2"></div>
                     <div class="am2"><p align="center"><b><h2>vidhya</h2></b></p></div>
                     <div class="amph3"></div>
