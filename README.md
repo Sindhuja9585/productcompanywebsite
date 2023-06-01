@@ -446,12 +446,11 @@ contact
 
 ### products:![output](./out6.png)![output](./out7.png)
 
-### contact:
 
+### contact:
 ![output](./out8.png)
 
 ### HTML Validator:
-
 ![output](./valid.png)
 
 ## Result:
